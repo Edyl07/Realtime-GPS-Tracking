@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227654070372",
+    "project_id": "gps-tracking-dd6a5",
+    "storage_bucket": "gps-tracking-dd6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227654070372:android:a5670cd112f23c195f6f71",
+        "android_client_info": {
+          "package_name": "com.example.gpstrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227654070372-fajbadfcdl3rttncn1g6giiamdm13pug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHP9iiQN7JDkx2L7W0qXk99u1K4ne-zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227654070372-fajbadfcdl3rttncn1g6giiamdm13pug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
